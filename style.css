@@ -1,0 +1,174 @@
+* {
+    margin-top: 6px;
+    box-sizing: border-box;
+}
+form {
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    width: 800px;
+    height: 600px;
+    box-shadow: 0px 0px 0px 1px  rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+    border-radius: 5px;
+    margin-bottom: 85px;
+}
+.title{
+    margin-right:506px;
+    font-size: 22px;
+    margin-top: -30px;
+}
+.logo{
+    margin-right: 900px;
+}
+#h2{
+    font-size: 17.3px;
+    margin-left: -580px;
+    margin-top: 13px;
+}
+form div input{
+    width: 171px;
+    height: 40px;
+    border-radius: 4px;
+    padding: 0 10px;
+    box-shadow: 0px 0px 0px 1px  rgba(0, 0, 0, 0.1);
+    
+}
+#firstname{
+    
+    height: 33px;
+    border: 0px solid #c4c4c4;
+    float: left;
+    margin-left: 46px;
+    margin-top: 28px;
+    pointer-events:auto;
+}
+#lastname{
+    height: 33px;
+    border: 0px solid #c4c4c4;
+    float: left;
+    margin-left: 11px;
+    margin-top: 28px;
+}
+
+#email{
+    height: 33px;
+    width: 353px;
+    border: 0px solid #c4c4c4;
+    float: left;
+    margin-top: -159px;
+    margin-left: 46px;
+}
+
+#p1{
+    margin-top: -150px;
+    float: left;
+    margin-right: 370px;
+    margin-left: 57px;
+    font-size: 13.5px;
+   
+}
+#password{
+    margin-top: -140px;
+    float:left;
+    margin-left: 46px;
+    border: 0px solid #c4c4c4;
+}
+#confirmPassword{
+    margin-top: 20px;
+    float:left;
+    margin-left: 46px;
+    border: 0px solid #c4c4c4;
+}
+#confirmPassWord{
+    margin-top: -140px;
+    float:left;
+    margin-right: 40px;
+    border: 0px solid #c4c4c4;
+    margin-left: 230px;
+}
+#p2{
+    margin-top: -124px;
+    float: left;
+    margin-left: 57px;
+    font-size: 13.5px;
+}
+br {
+    margin-left: 300px;
+}
+#checkbox{
+    height: 15px;
+    width: 15px;
+    border: 2px solid black;
+    margin-right: 695px;
+    margin-left: 5px;
+
+}
+#p3{
+    margin-top: -20px;
+    margin-right: 550px;
+
+}
+#login{
+    font-size: 14px;
+    color: #174EA6;
+    border: 1px solid white;
+    background-color: white;
+    width: 111px;
+    height: 35px;
+
+}
+#login:hover{
+    opacity: 0.8;
+    background-color: rgb(249, 253, 255);
+
+}
+#next{
+    font-size: 16px;
+    width: 111px;
+    height: 35px;
+    margin-top: 40px;
+    color: white;
+    border: 1px solid white;
+    background-color: #006fff;
+    border-radius: 5px;
+    margin-left: 155px;
+}
+.a2{
+    float: left;
+    margin-top: -15px;
+    margin-left: 25px;
+}
+#icon1{
+    margin-right: 5000px;
+    margin-left: 46px;
+}
+#icon2{
+    margin-right: 3000px;
+    margin-left: 46px;
+}
+#icon3{
+    margin-right: 3000px;
+    margin-left: 46px;
+}
+.failure-icon,
+.error{
+    color: red
+}
+.error{
+    font-size: 14.5px;
+    margin-top: 5px;
+}
+.failure-icon{
+    right: 0;
+   opacity: 0;
+}
+.image{
+  margin-left: 450px;
+  margin-top: -145px;
+}
+.oEvHdd{
+    font-size:18px;
+   
+}
+
